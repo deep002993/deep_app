@@ -1,0 +1,3 @@
+class DeepController < ApplicationController
+
+end

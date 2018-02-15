@@ -1,0 +1,41 @@
+[33mcommit 892d1c9c5e1813d1eec4a582a7eb00373e143250[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: deep002993 <36511732+deep002993@users.noreply.github.com>
+Date:   Fri Feb 16 01:53:02 2018 +0530
+
+    imageg0063 delete
+
+[33mcommit 9c67eac8353fae38cf09676d89b8bb3fe4c4b121[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: deep002993 <36511732+deep002993@users.noreply.github.com>
+Date:   Fri Feb 16 01:44:15 2018 +0530
+
+    imageg0063 delete
+
+[33mcommit 34ca649ffd358f66bb174434a3d48483cbabe317[m
+Author: deep002993 <36511732+deep002993@users.noreply.github.com>
+Date:   Fri Feb 16 01:39:50 2018 +0530
+
+    imageg0063 delete
+
+[33mcommit eb11e7a8d52a7eb29fd1735653fad1880f60fc05[m
+Author: deep002993 <36511732+deep002993@users.noreply.github.com>
+Date:   Fri Feb 16 01:35:43 2018 +0530
+
+    imageg0063
+
+[33mcommit 1f0eb60e32bdb3d870baee7ec867bc2734c74d4a[m
+Author: deep002993 <36511732+deep002993@users.noreply.github.com>
+Date:   Fri Feb 16 01:02:37 2018 +0530
+
+    Added pg and rails_12factor gems for Heroku
+
+[33mcommit 32773e76d27f67147ca2b0c26853ac0ee6a9d934[m
+Author: deep002993 <36511732+deep002993@users.noreply.github.com>
+Date:   Fri Feb 16 00:52:46 2018 +0530
+
+    make it better
+
+[33mcommit 781c68fb90c01d066c14cca8318dd6e3541a17d5[m
+Author: deep002993 <36511732+deep002993@users.noreply.github.com>
+Date:   Thu Feb 15 23:34:25 2018 +0530
+
+    intial commit
